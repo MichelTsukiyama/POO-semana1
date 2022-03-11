@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4VUYexCAPLjHLiPtH26b3y0LTGTRq21cA3bKVYOlpcJGZ/izKplztsUC1ZIJmg3zeWksIVY1jtSHMd/u+BLtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miche\\Documents\\GFT POO\\exercicio2\\exercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miche\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

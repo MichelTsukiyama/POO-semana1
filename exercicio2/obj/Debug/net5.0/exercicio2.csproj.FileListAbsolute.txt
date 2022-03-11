@@ -1,0 +1,16 @@
+C:\Users\miche\Documents\GFT POO\exercicio2\bin\Debug\net5.0\exercicio2.exe
+C:\Users\miche\Documents\GFT POO\exercicio2\bin\Debug\net5.0\exercicio2.deps.json
+C:\Users\miche\Documents\GFT POO\exercicio2\bin\Debug\net5.0\exercicio2.runtimeconfig.json
+C:\Users\miche\Documents\GFT POO\exercicio2\bin\Debug\net5.0\exercicio2.runtimeconfig.dev.json
+C:\Users\miche\Documents\GFT POO\exercicio2\bin\Debug\net5.0\exercicio2.dll
+C:\Users\miche\Documents\GFT POO\exercicio2\bin\Debug\net5.0\exercicio2.pdb
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.AssemblyInfo.cs
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.dll
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\refint\exercicio2.dll
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.pdb
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\exercicio2.genruntimeconfig.cache
+C:\Users\miche\Documents\GFT POO\exercicio2\obj\Debug\net5.0\ref\exercicio2.dll
